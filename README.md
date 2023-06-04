@@ -3,7 +3,7 @@
 ## There you can find all my links
 
 Watch Me on:
-- [Youtube](https://www.youtube.com/channel/UCTwhEkaurJdCLW6e330xR9A)
+- <i class="fab fa-youtube" style="color: #c81414;"></i> [Youtube](https://www.youtube.com/channel/UCTwhEkaurJdCLW6e330xR9A)
 - [Twitch](https://www.twitch.tv/martinatortime)
 
 Contact Me on:
@@ -17,8 +17,5 @@ Check My R6 Stats on:
 - [R6DB](https://r6db.net/player/MartinatorTime/42f1501b-3a09-4166-a46c-029bc5535ab7)
 - [R6Tab](https://tabstats.com/siege/player/martinatortime/42f1501b-3a09-4166-a46c-029bc5535ab7)
 - [TrackerNetwork](https://r6.tracker.network/profile/psn/MartinatorTime)
-
-#
-
 
 &copy; 2023 MartinatorTime. All rights reserved.
